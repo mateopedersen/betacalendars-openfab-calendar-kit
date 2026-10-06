@@ -5,7 +5,7 @@
 - The generator supports years 1900–2100 and uses six fixed rows for monthly outputs.
 - SVG files are XML parsed during generation.
 - PDF artifacts are one page each and generated at exact A4 or US Letter page dimensions.
-- DXF is ASCII R12-style, millimeter units, with the stencil perimeter as a closed polyline and grid geometry on a separate layer.
+- DXF is ASCII AC1015 (AutoCAD 2000) with millimeter units, a closed perimeter, and 42 closed rounded opening contours on the CUT layer. This format was structurally checked; no external CAD import is claimed.
 
 Digital validation is not a physical-machine test. Import behavior varies by CAD/CAM software and should be checked locally.
 - 104 PDFs are present: 96 monthly combinations (12 months × 2 week starts × 2 paper sizes × 2 orientations) plus 8 undated grid combinations.

@@ -2,7 +2,7 @@
 
 ## Design dimensions
 
-The reusable overlay is **190 × 260 mm**. Its calendar field is **174 × 216 mm**, including a 12 mm weekday band and a **174 × 204 mm** date grid. The 7 columns are each **24.86 mm** wide and the 6 date rows are **34 mm** high. It fits within A4 (210 × 297 mm) with room for handling and alignment. A separate 300 × 220 mm planning board uses a 264 × 168 mm field and 37.71 × 24 mm cells.
+The reusable overlay is **190 × 260 mm**. Its body is **190 × 260 mm** with a **174 × 180 mm** six-row date grid, a 10 mm weekday band, a 25 mm title area, and 22 mm for notes. The grid pitch is **24.57 × 29.67 mm**. Each rounded through-opening is **22.57 × 27.67 mm**, leaving nominal 2 mm bridges; verify minimum bridge width against your material and process. The complete cut outline sits inside a 6 mm top/bottom and 8 mm side margin. It fits within A4 (210 × 297 mm) with room for handling and alignment. A separate 300 × 220 mm planning board uses a 264 × 168 mm field and 37.71 × 24 mm cells.
 
 The stencil uses a 3 mm nominal stock as a design reference only. Check actual thickness, flatness, kerf, minimum bridge width, corner radius, and tool behavior on your own stock and equipment. The date cells are intentionally large for handwriting and token placement. Registration circles in the drawing are 3 mm diameter; adjust them to the pins or marks in your workflow.
 

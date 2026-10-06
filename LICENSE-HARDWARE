@@ -1,3 +1,6 @@
 CERN Open Hardware Licence Version 2 – Weakly Reciprocal (CERN-OHL-W-2.0)
 
-This license applies to the hardware design files in fabrication/ and images/diagrams/ unless otherwise stated. The full license text is available at https://ohwr.org/cern_ohl_w_v2.txt
+This license applies to the hardware design files in `fabrication/` and `images/diagrams/` unless a file states otherwise.
+
+Official license text and source: https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/82b567f43ce515395f7ddbfbad7a8806/cern_ohl_w_v2.txt
+License variants are listed by the Open Hardware Repository at https://ohwr.org/licences/
