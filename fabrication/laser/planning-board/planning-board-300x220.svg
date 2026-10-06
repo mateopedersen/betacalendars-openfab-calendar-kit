@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="300mm" height="220mm" viewBox="0 0 300 220">
+<g id="CUT">
+<rect x="0" y="0" width="300" height="220" rx="3" fill="none" stroke="#f00" stroke-width="0.15"/>
+</g>
+<g id="SCORE_ENGRAVE">
+<text x="150" y="17" font-family="sans-serif" font-size="5" text-anchor="middle" fill="#222">PLANNING BOARD • 300 × 220 mm</text>
+<path d="M18.0,32 L18.0,200" fill="none" stroke="#00f" stroke-width="0.18"/>
+<path d="M55.714285714285715,32 L55.714285714285715,200" fill="none" stroke="#00f" stroke-width="0.18"/>
+<path d="M93.42857142857143,32 L93.42857142857143,200" fill="none" stroke="#00f" stroke-width="0.18"/>
+<path d="M131.14285714285714,32 L131.14285714285714,200" fill="none" stroke="#00f" stroke-width="0.18"/>
+<path d="M168.85714285714286,32 L168.85714285714286,200" fill="none" stroke="#00f" stroke-width="0.18"/>
+<path d="M206.57142857142858,32 L206.57142857142858,200" fill="none" stroke="#00f" stroke-width="0.18"/>
+<path d="M244.28571428571428,32 L244.28571428571428,200" fill="none" stroke="#00f" stroke-width="0.18"/>
+<path d="M282.0,32 L282.0,200" fill="none" stroke="#00f" stroke-width="0.18"/>
+<path d="M18,32.0 L282,32.0" fill="none" stroke="#00f" stroke-width="0.18"/>
+<path d="M18,56.0 L282,56.0" fill="none" stroke="#00f" stroke-width="0.18"/>
+<path d="M18,80.0 L282,80.0" fill="none" stroke="#00f" stroke-width="0.18"/>
+<path d="M18,104.0 L282,104.0" fill="none" stroke="#00f" stroke-width="0.18"/>
+<path d="M18,128.0 L282,128.0" fill="none" stroke="#00f" stroke-width="0.18"/>
+<path d="M18,152.0 L282,152.0" fill="none" stroke="#00f" stroke-width="0.18"/>
+<path d="M18,176.0 L282,176.0" fill="none" stroke="#00f" stroke-width="0.18"/>
+<path d="M18,200.0 L282,200.0" fill="none" stroke="#00f" stroke-width="0.18"/>
+<text x="36.85714285714286" y="37" font-family="sans-serif" font-size="2.5" text-anchor="middle" fill="#222">MON</text>
+<text x="74.57142857142857" y="37" font-family="sans-serif" font-size="2.5" text-anchor="middle" fill="#222">TUE</text>
+<text x="112.28571428571429" y="37" font-family="sans-serif" font-size="2.5" text-anchor="middle" fill="#222">WED</text>
+<text x="150.0" y="37" font-family="sans-serif" font-size="2.5" text-anchor="middle" fill="#222">THU</text>
+<text x="187.71428571428572" y="37" font-family="sans-serif" font-size="2.5" text-anchor="middle" fill="#222">FRI</text>
+<text x="225.42857142857144" y="37" font-family="sans-serif" font-size="2.5" text-anchor="middle" fill="#222">SAT</text>
+<text x="263.1428571428571" y="37" font-family="sans-serif" font-size="2.5" text-anchor="middle" fill="#222">SUN</text>
+<text x="150" y="212" font-family="sans-serif" font-size="2.5" text-anchor="middle" fill="#222">Cell 37.71 × 24 mm • layout surface; use removable tokens or dry-erase overlay</text>
+</g>
+</svg>
